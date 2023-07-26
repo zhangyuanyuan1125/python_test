@@ -1,0 +1,18 @@
+字符格式化输出
+占位符 %s   s = string 字符串
+      %d   d = digit  整数
+      %f   f = float  浮点数，约等于小数
+例：name = "C语言中文网"
+   age = 8
+   url = "http://c.biancheng.net/"
+   print("%s已经%d岁了，它的网址是%s"  % (name, age, url))
+   运行结果是：C语言中文网已经8岁了，它的网址是http://c.biancheng.net/。
+
+循环loop
+    有限循环， 次数循环
+    无限循环 = 死循环
+    continue 结束本次循环，继续下一次循环
+    break 跳出整个当前循环
+
+列表
+
