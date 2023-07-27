@@ -80,7 +80,6 @@ print(max_num)
 #     print()
 #     i += 1
 
-print("测试")
 
 
 
